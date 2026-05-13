@@ -1,0 +1,61 @@
+attrition_id,employee_id,resignation_date,attrition_reason
+1,1087,2025-08-30,Better Opportunity
+2,1027,2026-05-01,Higher Studies
+3,1198,2026-01-23,Compensation
+4,1052,2026-01-17,Work-Life Balance
+5,1038,2025-07-05,Relocation
+6,1175,2025-12-26,Compensation
+7,1071,2025-09-19,Compensation
+8,1101,2026-01-15,Compensation
+9,1152,2026-04-12,Compensation
+10,1157,2026-05-02,Work-Life Balance
+11,1112,2025-10-26,Better Opportunity
+12,1117,2025-11-13,Compensation
+13,1141,2025-08-16,Relocation
+14,1138,2025-05-25,Higher Studies
+15,1012,2025-08-13,Relocation
+16,1086,2025-10-02,Better Opportunity
+17,1105,2026-02-07,Compensation
+18,1161,2026-04-12,Better Opportunity
+19,1122,2025-08-11,Higher Studies
+20,1119,2025-11-23,Compensation
+21,1147,2025-09-05,Work-Life Balance
+22,1081,2026-03-26,Compensation
+23,1058,2026-02-10,Higher Studies
+24,1068,2025-07-19,Relocation
+25,1167,2026-03-22,Better Opportunity
+26,1059,2025-11-10,Compensation
+27,1066,2025-12-27,Higher Studies
+28,1068,2025-08-31,Better Opportunity
+29,1136,2026-03-08,Work-Life Balance
+30,1011,2025-05-17,Work-Life Balance
+31,1116,2025-10-24,Work-Life Balance
+32,1102,2025-12-28,Better Opportunity
+33,1111,2026-01-17,Better Opportunity
+34,1020,2026-02-25,Relocation
+35,1138,2025-07-12,Compensation
+36,1107,2025-09-13,Better Opportunity
+37,1129,2025-05-24,Relocation
+38,1197,2026-03-24,Compensation
+39,1170,2025-08-09,Better Opportunity
+40,1128,2025-11-29,Compensation
+41,1055,2026-03-28,Compensation
+42,1170,2025-11-23,Compensation
+43,1074,2026-02-21,Better Opportunity
+44,1061,2025-12-22,Higher Studies
+45,1144,2025-05-31,Relocation
+46,1046,2025-09-24,Compensation
+47,1168,2025-07-15,Work-Life Balance
+48,1004,2025-06-08,Higher Studies
+49,1021,2026-04-15,Relocation
+50,1166,2025-11-06,Work-Life Balance
+51,1123,2025-09-25,Better Opportunity
+52,1026,2025-11-16,Work-Life Balance
+53,1192,2025-10-14,Relocation
+54,1044,2025-10-13,Relocation
+55,1172,2025-07-27,Relocation
+56,1107,2025-10-30,Work-Life Balance
+57,1110,2026-03-12,Work-Life Balance
+58,1187,2025-11-03,Work-Life Balance
+59,1093,2025-10-15,Better Opportunity
+60,1196,2026-04-07,Relocation

@@ -1,0 +1,201 @@
+employee_id,employee_name,department,designation,joining_date,salary,manager_id,location,employment_status
+1001,Amanda King,Analytics,Analyst,2023-06-09,452451,1009,Bangalore,Active
+1002,Jeffrey Thomas,Operations,Associate,2021-05-23,614947,1018,Ahmedabad,Resigned
+1003,Brent Summers,Technology,Analyst,2026-04-07,596493,1007,Bangalore,Active
+1004,Christine Brooks,Finance,Senior Analyst,2024-05-24,1762906,1018,Pune,Active
+1005,Raymond Taylor,HR,Lead,2021-12-29,983408,1001,Bangalore,Resigned
+1006,Jose Sparks,Support,Manager,2023-09-22,726064,1007,Kochi,Active
+1007,Jennifer Randolph,Technology,Consultant,2022-11-29,602828,1012,Kochi,Active
+1008,Jesus Elliott,Technology,Associate,2021-07-15,1363483,1018,Ahmedabad,Resigned
+1009,Matthew Martinez,Technology,Lead,2023-12-31,1014839,1020,Kochi,Active
+1010,Victoria Roth,Analytics,Analyst,2025-05-28,496100,1008,Kochi,Active
+1011,Frances Daniel,Operations,Analyst,2025-08-13,1197182,1009,Pune,Active
+1012,Mr. James Nelson,Operations,Manager,2021-06-15,1145056,1007,Kochi,Active
+1013,Kevin Johnson,Finance,Associate,2023-01-24,758903,1018,Bangalore,Active
+1014,Troy James,HR,Consultant,2023-11-01,966121,1018,Bangalore,Active
+1015,Matthew Morales,Technology,Senior Analyst,2025-11-01,467319,1011,Pune,Active
+1016,Jamie Lynn,Technology,Senior Analyst,2022-12-13,1589462,1011,Bangalore,Resigned
+1017,Todd Thomas,HR,Associate,2025-07-01,1362282,1005,Kochi,Active
+1018,Kevin Harper,Operations,Associate,2021-08-13,1577274,1018,Kochi,Resigned
+1019,Carolyn Knight,Finance,Consultant,2025-12-10,1159161,1008,Bangalore,Resigned
+1020,Amy Perez,Technology,Analyst,2025-09-17,629950,1005,Bangalore,Resigned
+1021,Kristin Jones,Finance,Analyst,2025-03-23,1206915,1013,Hyderabad,Resigned
+1022,Ashley Rangel,Finance,Manager,2024-10-10,1560198,1001,Ahmedabad,Active
+1023,Michele Tucker,Analytics,Manager,2022-10-05,633941,1010,Pune,Active
+1024,Pamela Ramsey,HR,Analyst,2023-09-01,952366,1017,Bangalore,Active
+1025,Taylor Brown,Analytics,Manager,2022-07-24,1739974,1017,Hyderabad,Active
+1026,Cynthia Johnson,Operations,Manager,2021-09-11,738792,1018,Hyderabad,Active
+1027,Susan Mccall,Finance,Manager,2023-12-25,1424680,1001,Ahmedabad,Active
+1028,Robin Nguyen,Support,Senior Analyst,2021-06-24,521477,1008,Hyderabad,Active
+1029,Chelsea Barker,Technology,Associate,2022-09-08,1419195,1003,Hyderabad,Active
+1030,Jeffrey Hubbard,Operations,Associate,2024-07-03,1396739,1018,Bangalore,Active
+1031,Carmen Roy,Finance,Lead,2022-04-18,1287384,1007,Hyderabad,Active
+1032,Jessica Romero,Analytics,Manager,2024-04-01,1236747,1012,Pune,Resigned
+1033,Charles Medina,Technology,Senior Analyst,2024-07-04,871224,1003,Kochi,Active
+1034,Edward Butler,Finance,Lead,2022-07-29,882585,1019,Bangalore,Active
+1035,Pamela Kirk,Technology,Associate,2022-03-06,1723518,1002,Bangalore,Active
+1036,Nicholas Davis,Technology,Manager,2024-01-10,548598,1017,Bangalore,Active
+1037,Becky Miller,Analytics,Consultant,2021-05-28,849287,1018,Bangalore,Resigned
+1038,Cindy Garner,Operations,Consultant,2023-10-29,1253666,1007,Ahmedabad,Active
+1039,Brandon Foster,Analytics,Consultant,2024-07-02,1143015,1014,Pune,Resigned
+1040,Mark Martin,Analytics,Analyst,2023-11-30,1770395,1004,Ahmedabad,Resigned
+1041,Donna Li,Analytics,Manager,2026-05-06,629153,1008,Bangalore,Active
+1042,Lisa Nunez,Finance,Consultant,2022-08-16,693983,1014,Bangalore,Active
+1043,Jessica Williams,HR,Senior Analyst,2025-03-31,558093,1015,Hyderabad,Active
+1044,Mrs. Cathy Barajas,Technology,Associate,2022-06-13,1533695,1001,Ahmedabad,Active
+1045,Andrea Nicholson,Operations,Consultant,2023-11-24,1418463,1016,Bangalore,Resigned
+1046,Hector Soto,Technology,Senior Analyst,2021-11-06,1194764,1001,Pune,Active
+1047,Kathryn Dixon,HR,Manager,2022-02-01,1287110,1018,Pune,Active
+1048,Richard Schwartz,Operations,Manager,2025-10-30,856551,1002,Hyderabad,Active
+1049,Michael Walters,Analytics,Manager,2025-12-06,519884,1002,Hyderabad,Resigned
+1050,Kenneth Vega,Finance,Lead,2023-12-08,730160,1002,Hyderabad,Active
+1051,Madeline Jimenez,Operations,Analyst,2023-09-14,1647879,1003,Bangalore,Resigned
+1052,Ryan Adams,Technology,Lead,2021-05-20,916351,1019,Hyderabad,Active
+1053,Stacey Clark,Finance,Analyst,2022-12-31,1279178,1019,Hyderabad,Active
+1054,Donna Wright,Support,Senior Analyst,2021-07-29,1058891,1008,Kochi,Resigned
+1055,Kyle Williams,Operations,Associate,2024-01-27,1753713,1010,Pune,Active
+1056,Lauren Gonzalez,Technology,Analyst,2026-02-19,1361094,1020,Hyderabad,Active
+1057,Frederick Park,Technology,Lead,2023-03-12,847016,1017,Kochi,Active
+1058,Judy Hernandez,Support,Analyst,2022-02-19,912301,1012,Kochi,Active
+1059,Ashley Shaffer,HR,Lead,2025-11-08,1034424,1020,Hyderabad,Active
+1060,Daniel Gentry,Analytics,Lead,2024-01-22,1027842,1004,Bangalore,Active
+1061,Kristen Ross,Technology,Analyst,2025-06-05,1560194,1005,Kochi,Active
+1062,Daniel Johnson,Finance,Senior Analyst,2025-10-08,1119072,1007,Kochi,Resigned
+1063,Adam Bryant,Support,Analyst,2024-11-26,593563,1014,Kochi,Active
+1064,Denise White,Technology,Manager,2025-04-22,674348,1009,Bangalore,Resigned
+1065,Anthony Bennett,Finance,Associate,2026-01-22,1296924,1018,Ahmedabad,Active
+1066,William Hall,Technology,Associate,2022-11-24,712589,1018,Ahmedabad,Active
+1067,John Morgan MD,Finance,Lead,2021-09-15,710575,1014,Bangalore,Active
+1068,Ryan Crawford,Support,Manager,2025-08-14,483665,1012,Bangalore,Active
+1069,Brandy Collins,Analytics,Analyst,2026-02-24,1141717,1018,Pune,Active
+1070,Kimberly Brown,Operations,Senior Analyst,2021-05-12,771305,1014,Ahmedabad,Active
+1071,Jimmy Andrews,Analytics,Manager,2025-12-23,1263425,1008,Kochi,Active
+1072,Nicolas Mclaughlin DDS,Analytics,Analyst,2021-07-10,1202248,1002,Pune,Active
+1073,Michael Holmes,Operations,Consultant,2022-09-23,1133286,1010,Bangalore,Active
+1074,Michael Castro,Technology,Associate,2023-09-06,805022,1013,Kochi,Active
+1075,Edward Davis,Technology,Manager,2024-02-02,1136406,1017,Pune,Active
+1076,Vanessa Martin,Technology,Analyst,2024-12-02,947807,1006,Hyderabad,Active
+1077,William Simpson,Technology,Analyst,2024-11-08,1651100,1014,Kochi,Active
+1078,Jonathan Martin,HR,Lead,2024-10-11,1472531,1004,Pune,Active
+1079,Elizabeth Johnson,Support,Analyst,2022-01-25,1314478,1001,Hyderabad,Active
+1080,Melanie Ruiz,Support,Consultant,2021-12-27,546745,1011,Hyderabad,Active
+1081,Lisa Barnett,Analytics,Analyst,2023-06-27,1029821,1017,Kochi,Resigned
+1082,Michelle Solis,Support,Consultant,2023-01-24,1020033,1018,Bangalore,Active
+1083,Frank Hughes,HR,Associate,2026-01-22,1195125,1006,Hyderabad,Active
+1084,Jeffrey Henderson,HR,Lead,2024-12-02,400851,1010,Kochi,Active
+1085,Cody Brooks,HR,Lead,2026-01-16,1672261,1011,Pune,Resigned
+1086,Jimmy Olson,HR,Associate,2026-03-18,848164,1017,Pune,Active
+1087,Karla Parker,Analytics,Analyst,2024-01-12,995143,1017,Hyderabad,Active
+1088,Andrew Snyder,Technology,Senior Analyst,2024-03-17,1050996,1008,Bangalore,Active
+1089,Joanna Walker,Technology,Analyst,2023-06-15,913472,1016,Hyderabad,Active
+1090,Alan Castillo,HR,Consultant,2024-10-25,1720713,1019,Bangalore,Resigned
+1091,Thomas Chavez,HR,Consultant,2022-10-27,911672,1005,Ahmedabad,Active
+1092,Andrew Davis,HR,Senior Analyst,2021-06-07,768861,1017,Pune,Active
+1093,Erica Burns,Finance,Senior Analyst,2024-06-28,654507,1015,Bangalore,Resigned
+1094,Evan Banks,Analytics,Lead,2024-10-26,1572151,1020,Kochi,Resigned
+1095,Joshua Martinez,Finance,Associate,2025-11-20,1458596,1014,Hyderabad,Resigned
+1096,Melissa Miller,Operations,Associate,2023-04-30,1395464,1015,Kochi,Active
+1097,Debbie Cervantes,Analytics,Manager,2024-12-11,1493244,1016,Bangalore,Active
+1098,Amanda Schroeder,HR,Analyst,2023-04-09,999215,1008,Kochi,Active
+1099,Melanie Brown,Support,Lead,2024-07-10,568983,1005,Bangalore,Active
+1100,Daryl Lawrence,HR,Associate,2022-08-03,720455,1007,Ahmedabad,Resigned
+1101,Timothy Rodgers,HR,Manager,2025-12-03,1537938,1015,Pune,Active
+1102,Ashlee Hernandez,Operations,Consultant,2022-06-05,1216792,1019,Ahmedabad,Resigned
+1103,Sarah Blevins,HR,Analyst,2024-06-25,1137691,1010,Pune,Resigned
+1104,Nathan Ross,Finance,Associate,2024-08-08,1545322,1020,Bangalore,Resigned
+1105,Nicole Gibson,Operations,Manager,2026-01-15,1314014,1016,Ahmedabad,Resigned
+1106,Debra Baker,Support,Associate,2026-01-07,1247913,1006,Pune,Active
+1107,Lauren Simpson,Finance,Lead,2025-02-11,456552,1013,Hyderabad,Active
+1108,Kelly Johnson,Technology,Associate,2022-05-19,1298866,1005,Pune,Active
+1109,Joshua Bowman,Technology,Manager,2024-12-14,1195038,1011,Bangalore,Resigned
+1110,John Jones,Support,Manager,2022-10-07,1195085,1009,Pune,Active
+1111,Elizabeth Knox,Technology,Consultant,2021-08-29,440649,1018,Ahmedabad,Active
+1112,Zachary Bell,Operations,Associate,2021-08-30,543903,1002,Ahmedabad,Active
+1113,Todd Fuentes,Operations,Analyst,2023-08-30,1703035,1005,Bangalore,Active
+1114,John Griffin,HR,Associate,2022-06-20,639892,1019,Bangalore,Resigned
+1115,Stephen Montgomery,Analytics,Manager,2024-05-19,1173629,1006,Hyderabad,Active
+1116,Leslie Lutz,Operations,Manager,2023-11-01,626699,1019,Ahmedabad,Active
+1117,Heather Nelson,Finance,Associate,2025-10-13,1187075,1013,Bangalore,Active
+1118,Jacob Mcguire,Finance,Associate,2024-03-05,1715422,1008,Ahmedabad,Active
+1119,Lisa Brown,Analytics,Lead,2023-11-13,653870,1019,Ahmedabad,Active
+1120,Danny Roberts,Finance,Consultant,2021-07-07,1787310,1012,Ahmedabad,Active
+1121,Mckenzie Johnson,Technology,Consultant,2026-02-01,1428027,1004,Pune,Active
+1122,Robert Ramos,Analytics,Consultant,2022-08-04,720845,1014,Bangalore,Active
+1123,Ashley Ibarra,Finance,Lead,2022-11-17,1413967,1015,Pune,Active
+1124,Dana Hernandez,Support,Senior Analyst,2025-03-13,581745,1009,Pune,Active
+1125,Garrett Mitchell,HR,Lead,2021-06-27,1679958,1013,Kochi,Active
+1126,Stephanie Daniel,HR,Manager,2025-04-09,781345,1016,Bangalore,Active
+1127,Jennifer Turner DVM,Support,Manager,2024-04-26,986486,1020,Kochi,Active
+1128,Holly Campbell,Finance,Senior Analyst,2021-07-28,579543,1008,Pune,Resigned
+1129,Allison Mills,Finance,Senior Analyst,2025-01-27,1398439,1016,Pune,Active
+1130,Daniel Thompson,Technology,Manager,2024-09-02,864721,1013,Bangalore,Active
+1131,Nancy Patel,Analytics,Lead,2025-10-05,1173891,1016,Hyderabad,Active
+1132,Karen Davis,HR,Associate,2026-04-07,1554248,1011,Kochi,Resigned
+1133,Kimberly Wood,Support,Manager,2022-07-21,927231,1008,Ahmedabad,Active
+1134,Mrs. Tracy Berger,Support,Analyst,2021-12-20,1523788,1006,Bangalore,Active
+1135,Erin Miller,Analytics,Consultant,2021-07-06,979861,1019,Hyderabad,Active
+1136,Michelle Acosta,Technology,Senior Analyst,2024-02-29,1021273,1008,Kochi,Active
+1137,Katherine Campbell,Support,Analyst,2022-01-26,1520162,1005,Kochi,Active
+1138,Lisa Galloway,Technology,Lead,2022-08-06,1012654,1005,Pune,Active
+1139,Angela Davis,Technology,Lead,2021-05-29,996302,1016,Pune,Resigned
+1140,William Morris,Support,Senior Analyst,2022-07-10,507744,1009,Pune,Active
+1141,Kathleen Cain,Technology,Consultant,2021-11-06,1431267,1003,Hyderabad,Active
+1142,Patricia Stout,Operations,Senior Analyst,2022-06-26,1580360,1010,Ahmedabad,Active
+1143,Crystal Davis,Technology,Lead,2025-10-28,1272780,1020,Hyderabad,Active
+1144,Christopher Olson,Finance,Consultant,2022-09-18,1344797,1015,Kochi,Resigned
+1145,Richard Hernandez,Support,Lead,2023-05-04,1702388,1002,Hyderabad,Active
+1146,Beth Huerta,Operations,Associate,2024-09-12,842551,1009,Ahmedabad,Active
+1147,Kyle Doyle,Operations,Senior Analyst,2022-11-11,1557611,1003,Bangalore,Active
+1148,Daniel Cooke,HR,Consultant,2021-12-28,1645312,1016,Kochi,Active
+1149,Dr. Kerri Smith,Operations,Manager,2023-01-15,992903,1015,Ahmedabad,Active
+1150,Patricia Crawford,Support,Associate,2022-05-29,1636878,1007,Pune,Active
+1151,Shelley Williams,Finance,Senior Analyst,2022-12-18,1758188,1005,Kochi,Active
+1152,Donna Wright,Technology,Analyst,2022-10-24,747965,1010,Hyderabad,Active
+1153,Dr. Nathan Wolfe,HR,Analyst,2022-10-27,1382930,1010,Pune,Active
+1154,Michael Cobb,Finance,Lead,2022-03-25,1435563,1015,Ahmedabad,Active
+1155,James Vaughn,HR,Associate,2021-07-02,1075957,1020,Kochi,Active
+1156,Tanya Fischer,Technology,Senior Analyst,2021-08-22,1606279,1019,Ahmedabad,Active
+1157,Edward White,Finance,Analyst,2021-08-23,767401,1016,Hyderabad,Resigned
+1158,Jonathan Clark,Support,Senior Analyst,2024-02-24,1627525,1014,Pune,Active
+1159,Joyce Carney,HR,Manager,2022-08-08,1256368,1011,Kochi,Active
+1160,Maria Torres,Operations,Manager,2022-08-16,1263282,1016,Kochi,Resigned
+1161,Lauren Mendoza,Finance,Analyst,2023-06-14,1353839,1003,Kochi,Active
+1162,Patrick Berry,Support,Analyst,2025-08-29,1247616,1017,Ahmedabad,Resigned
+1163,Timothy Mcpherson,HR,Analyst,2024-03-30,793389,1017,Kochi,Resigned
+1164,Jennifer Baird,Analytics,Consultant,2022-04-05,508237,1007,Kochi,Active
+1165,David Cortez,Support,Consultant,2023-02-10,1416514,1004,Ahmedabad,Active
+1166,Bryce Gonzales,Analytics,Senior Analyst,2025-04-08,1051690,1018,Ahmedabad,Resigned
+1167,Joseph Miller,Technology,Senior Analyst,2021-07-04,637945,1015,Ahmedabad,Active
+1168,Paul Williams,HR,Associate,2022-05-05,1012078,1017,Kochi,Resigned
+1169,Justin Hill,HR,Consultant,2024-02-08,911140,1015,Hyderabad,Active
+1170,Ms. Sarah Lane,HR,Senior Analyst,2024-04-22,1656985,1017,Bangalore,Active
+1171,Danny Jackson,Support,Consultant,2022-11-28,1112770,1017,Kochi,Active
+1172,Eric White,Support,Associate,2025-04-25,1026116,1019,Hyderabad,Resigned
+1173,Rebecca Shelton,Operations,Consultant,2024-08-10,1529485,1016,Kochi,Active
+1174,Debbie Ford,Finance,Lead,2026-04-14,1191066,1015,Kochi,Active
+1175,Gary Johnson,Analytics,Senior Analyst,2025-07-29,1599146,1013,Bangalore,Resigned
+1176,Robert Cruz,Technology,Manager,2025-02-22,1391903,1013,Pune,Active
+1177,William Jackson,HR,Analyst,2024-08-14,664757,1017,Hyderabad,Active
+1178,Marissa Ferguson,Technology,Consultant,2026-04-05,609110,1017,Pune,Active
+1179,Jeffery Franklin,Analytics,Senior Analyst,2021-05-16,1259787,1005,Ahmedabad,Resigned
+1180,John Shelton,Support,Manager,2023-03-19,1707069,1013,Ahmedabad,Active
+1181,Vanessa Nielsen,Analytics,Lead,2025-11-20,1196937,1011,Pune,Active
+1182,Megan Williams,Finance,Analyst,2024-04-12,892348,1010,Bangalore,Active
+1183,Victor Lopez,HR,Analyst,2025-03-29,1729065,1004,Pune,Active
+1184,Gregory Holt,Analytics,Manager,2021-05-07,460706,1002,Kochi,Active
+1185,Larry Elliott,Support,Manager,2026-03-24,1186098,1014,Bangalore,Active
+1186,John Glenn,Finance,Consultant,2025-03-30,1586837,1006,Bangalore,Active
+1187,Carla Jones,Technology,Lead,2022-08-06,1202253,1020,Bangalore,Resigned
+1188,Dawn Alvarez,Finance,Senior Analyst,2026-01-22,886934,1015,Kochi,Resigned
+1189,Samuel Castillo,Support,Associate,2024-04-10,419707,1015,Kochi,Active
+1190,Calvin Gonzales,Technology,Consultant,2026-01-04,1124703,1019,Kochi,Resigned
+1191,Jessica Graham,Analytics,Manager,2022-02-06,1358054,1010,Bangalore,Resigned
+1192,Kathleen Hill,HR,Analyst,2022-11-13,897456,1013,Hyderabad,Active
+1193,Jeremy Woods,Finance,Manager,2021-08-27,1019143,1001,Pune,Active
+1194,Stephen White,Technology,Lead,2022-09-28,502853,1020,Pune,Active
+1195,Jennifer Novak,Operations,Lead,2022-10-13,1138870,1008,Bangalore,Active
+1196,Michael Smith,Analytics,Associate,2022-02-19,1782403,1005,Ahmedabad,Active
+1197,Zachary Mitchell,Support,Consultant,2023-09-14,469970,1019,Kochi,Active
+1198,William Brooks,Technology,Manager,2022-09-21,1085179,1014,Bangalore,Active
+1199,Tyler Brooks,Operations,Lead,2024-02-20,1167258,1017,Hyderabad,Active
+1200,William Lopez,Operations,Manager,2023-01-12,1410508,1010,Kochi,Active
