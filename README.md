@@ -43,4 +43,16 @@ Built an end-to-end workforce analytics solution using SQL and Power BI.
 
 ## Screenshots
 
-(Add dashboard screenshots here)
+## Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Workforce Utilization
+![Workforce Utilization](screenshots/workforce_utilization.png)
+
+### Project Analytics
+![Project Analytics](screenshots/project_analytics.png)
+
+### Attrition Dashboard
+![Attrition Dashboard](screenshots/attrition_dashboard.png)
